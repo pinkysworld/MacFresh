@@ -1,4 +1,4 @@
-// MacFresh Marketing Website - JavaScript
+// AppSweep Marketing Website - JavaScript
 
 document.addEventListener('DOMContentLoaded', function() {
     // Mobile menu toggle
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const data = Object.fromEntries(formData);
             
             // Create mailto link
-            const subject = encodeURIComponent(`MacFresh Support: ${data.subject || 'General Inquiry'}`);
+            const subject = encodeURIComponent(`AppSweep Support: ${data.subject || 'General Inquiry'}`);
             const body = encodeURIComponent(
                 `Name: ${data.name}\nEmail: ${data.email}\n\nMessage:\n${data.message}`
             );

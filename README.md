@@ -1,8 +1,8 @@
-# MacFresh Website
+# AppSweep Website
 
-Marketing website for MacFresh - Universal App Updater for macOS.
+Marketing website for AppSweep - Universal App Updater for macOS.
 
-**Live URL:** https://pinkysworld.github.io/MacFresh/
+**Live URL:** https://pinkysworld.github.io/AppSweep/
 
 ## Structure
 
@@ -76,7 +76,7 @@ docs/
 4. Choose `main` branch and `/docs` folder
 5. Save
 
-The site will be available at: https://pinkysworld.github.io/MacFresh/
+The site will be available at: https://pinkysworld.github.io/AppSweep/
 
 ## Required Images
 
@@ -102,7 +102,7 @@ The support email is set to: **mip@gmx.biz**
 Search and replace in HTML files if you need to change it.
 
 ### App Store Link
-Replace `https://apps.apple.com/app/macfresh` with your actual App Store URL.
+Replace `https://apps.apple.com/app/appsweep` with your actual App Store URL.
 
 ## Features
 
@@ -118,4 +118,4 @@ Replace `https://apps.apple.com/app/macfresh` with your actual App Store URL.
 
 ## Support
 
-For questions about MacFresh: mip@gmx.biz
+For questions about AppSweep: mip@gmx.biz
